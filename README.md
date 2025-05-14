@@ -1,14 +1,16 @@
 ### Small Sized Practice Projects to learn Zig Programming Language by Examples
 
+##### **Note:**
+*Each independent projects are separated by branch name, so you need to checkout to respective branch name for the project.*
+
 NumGuess
 ----------
-A simple number guessing game that guesses a randomly generated number between 1 and 100 within n attempts.  
-Zig uses `Xoroshiro128` for pseudo random number generation by default.
+A minimal number guessing game that guesses a randomly generated number between 1 and 100 within n attempts.
 
 Chess Viewer
 -----
-Basic terminal based chess viewer application
+A simple terminal based chess viewer application.
 
 HTTP Server
 ------
-Simple HTTP Server in Zig using POSIX Socket built from scratch
+A HTTP Server in Zig using POSIX Socket built from scratch.
